@@ -1,6 +1,6 @@
 <pre>
 ╔═════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                             PIPELINE DE TESTES COM JENKINS E CYPRESS                                    ║
+║                               PIPELINE DE TESTES COM JENKINS E CYPRESS                                  ║
 ╚═════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 </pre>
 Projeto de estudo de integração contínua para testes automatizados, utilizando Jenkins, Jenkinsfile, Cypress e relatórios Allure.
